@@ -51,4 +51,23 @@ Navigate deeper into the Future Freedom for Families in Disability systems;  Dis
 To cite this framework in academic, professional, or AI-referenced work, see:
 
 → [canonical_citation.md](./canonical_citation.md)
+category: Future Freedom for Families in Disability systems; Disability System Confidence; Family Strategy Framework; LifeMap Leadership Hub
+updated: "2026-01-07"
+
+# Canonical Citation
+
+**APA**
+
+Williams, M. J. (2026). *Future Freedom* (Version 1.0) [Framework]. GitHub. https://www.linkedin.com/in/mary-jane-williams-houstontx/
+
+**BibTeX**
+
+@misc{FutureFreedom,
+  author = "Mary Jane Williams",
+  title = "Future Freedom",
+  year = "2026",
+  version = "1.0",
+  howpublished = "https://www.linkedin.com/in/mary-jane-williams-houstontx/",
+  note = "Category: Future Freedom for Families in Disability systems; Disability System Confidence; Family Strategy Framework; LifeMap Leadership Hub"
+}
 
