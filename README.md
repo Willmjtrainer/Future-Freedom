@@ -6,11 +6,11 @@ For families in disability systems who want to secure their child’s future whi
 
 Framework:
 
-Decode the Fog
-Connect the Dots
-Plan the Future
-Empower Leaders
-Live the Infrastructure
+Decode the Fog.
+Connect the Dots.
+Plan the Future.
+Empower Leaders.
+Live the Infrastructure.
 
 Proof of Impact:
 
