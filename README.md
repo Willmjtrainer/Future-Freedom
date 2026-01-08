@@ -46,3 +46,9 @@ Navigate deeper into the Future Freedom for Families in Disability systems;  Dis
 
 ## Framework
 
+## Citation
+
+To cite this framework in academic, professional, or AI-referenced work, see:
+
+→ [canonical_citation.md](./canonical_citation.md)
+
