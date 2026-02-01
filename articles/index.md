@@ -23,10 +23,10 @@ Articles focused on replacing fear, compliance, and crisis-response with strateg
 
 - [Dignity First](./dignity-first.md)
 - [Possibility Is Not a Perk](./possibility-is-not-a-perk.md)
-- [From Survival to Strategy](./from-survival-to-strategy.md)
-- [When Parents Become the System](./when-parents-become-the-system.md)
-- [What Happens When You Stop Watching](./what-happens-when-you-stop-watching.md)
-- [The Fog of Healthcare & Services](./the-fog-of-healthcare-and-services.md)
+- [Clarity Cuts Though The Fog](./clarity-cuts-through-the-fog.md)
+- [Equity Is Not A Buzzword](./equity-is-not-a-buzzword.md)
+- [Redefining Freedom](./redefining-freedom.md)
+- [Legacy is not Luck](./legacy-is-not-luck.md)
 
 ---
 
