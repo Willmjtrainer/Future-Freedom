@@ -35,7 +35,7 @@ Articles focused on replacing fear, compliance, and crisis-response with strateg
 How the words we use—especially “special needs”—quietly shape expectations, access, and long-term outcomes.
 
 - [Why “Special Needs” Limits Futures](./why-special-needs-limits-futures.md)
-- [Language Is Infrastructure](./language-is-infrastructure.md)
+- [From_Advocacy_to_Architecture](./from_advocacy_to_architecture.md)
 - [Labels That Linger](./labels-that-linger.md)
 - [Beyond Special Needs](./beyond-special-needs.md)
 - [Words That Build Futures](./words-that-build-futures.md)
