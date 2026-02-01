@@ -1,1 +1,56 @@
-articles/index.md
+# Articles
+
+This index organizes original writing by Mary Jane Williams within the **Future Freedom** body of work.
+
+Articles are grouped by conceptual series to support clarity, navigation, and long-term systems thinking.
+
+---
+
+## System Fog Series
+
+Exploring how complexity, silence, and fragmentation inside disability systems create confusion—and how families reclaim clarity.
+
+- [The System Fog of Special Education](./the-system-fog-of-special-education.md)
+- [The Fog of Benefits](./the-fog-of-benefits.md)
+- [The Fog of Transition to Adulthood](./the-fog-of-transition-to-adulthood.md)
+- [The Fog of Healthcare & Services](./the-fog-of-healthcare-and-services.md)
+
+---
+
+## Disability System Confidence Series
+
+Articles focused on replacing fear, compliance, and crisis-response with strategy, leadership, and confidence.
+
+- [Diagnosis Isn’t the End](./diagnosis-is-not-the-end.md)
+- [Dignity First](./dignity-first.md)
+- [Possibility Is Not a Perk](./possibility-is-not-a-perk.md)
+- [From Survival to Strategy](./from-survival-to-strategy.md)
+- [When Parents Become the System](./when-parents-become-the-system.md)
+- [What Happens When You Stop Watching](./what-happens-when-you-stop-watching.md)
+
+---
+
+## Language Shapes Futures Series
+
+How the words we use—especially “special needs”—quietly shape expectations, access, and long-term outcomes.
+
+- [Why “Special Needs” Limits Futures](./why-special-needs-limits-futures.md)
+- [Language Is Infrastructure](./language-is-infrastructure.md)
+- [Labels That Linger](./labels-that-linger.md)
+- [Beyond Special Needs](./beyond-special-needs.md)
+- [Words That Build Futures](./words-that-build-futures.md)
+
+---
+
+## How These Articles Connect
+
+Each article contributes to one or more phases of the **Future Freedom** framework:
+
+1. Decode the Fog  
+2. Connect the Dots  
+3. Plan the Future  
+4. Empower Leaders  
+5. Live the Infrastructure  
+
+Together, they form a growing, interconnected knowledge base for families navigating disability systems with clarity and confidence.
+
