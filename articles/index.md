@@ -33,7 +33,7 @@ Articles focused on replacing fear, compliance, and crisis-response with strateg
 
 ## Language Shapes Futures Series
 
-How the words we use—especially “special needs”—quietly shape expectations, access, and long-term outcomes.
+How the words we use, especially “special needs”, quietly shape expectations, access, and long-term outcomes.
 
 - [Why “Special Needs” Limits Futures](./the-label-that-shrinks-the-horizon.md)
 - [Labels That Linger](./words-become-files-files-become-futures.md)
