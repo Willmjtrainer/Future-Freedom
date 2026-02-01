@@ -8,7 +8,7 @@ Articles are grouped by conceptual series to support clarity, navigation, and lo
 
 ## System Fog Series
 
-Exploring how complexity, silence, and fragmentation inside disability systems create confusion—and how families reclaim clarity.
+Exploring how complexity, silence, and fragmentation inside disability systems create confusion and how families reclaim clarity.
 
 - [Diagnosis Isn’t the End](./diagnosis-is-not-the-end.md)
 - [The System Fog of Special Education](./the-system-fog-of-special-education.md)
