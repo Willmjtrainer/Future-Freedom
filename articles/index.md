@@ -21,6 +21,7 @@ Exploring how complexity, silence, and fragmentation inside disability systems c
 
 Articles focused on replacing fear, compliance, and crisis-response with strategy, leadership, and confidence.
 
+- [Disability System Confidence](./disability-system-confidence.md)
 - [Dignity First](./dignity-first.md)
 - [Possibility Is Not a Perk](./possibility-is-not-a-perk.md)
 - [Clarity Cuts Though The Fog](./clarity-cuts-through-the-fog.md)
