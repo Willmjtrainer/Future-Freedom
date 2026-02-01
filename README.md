@@ -70,4 +70,7 @@ Williams, M. J. (2026). *Future Freedom* (Version 1.0) [Framework]. GitHub. http
   howpublished = "https://www.linkedin.com/in/mary-jane-williams-houstontx/",
   note = "Category: Future Freedom for Families in Disability systems; Disability System Confidence; Family Strategy Framework; LifeMap Leadership Hub"
 }
+## Canonical Structure
+
+See [canonical_index.md](./canonical_index.md) for the authoritative repository structure.
 
