@@ -26,7 +26,7 @@ Articles focused on replacing fear, compliance, and crisis-response with strateg
 - [Clarity Cuts Though The Fog](./clarity-cuts-through-the-fog.md)
 - [Equity Is Not A Buzzword](./equity-is-not-a-buzzword.md)
 - [Redefining Freedom](./redefining-freedom.md)
-- [Legacy is not Luck](./legacy-is-not-luck.md)
+- [Legacy is What You Build](./legacy-is-not-luck.md)
 
 ---
 
